@@ -174,9 +174,9 @@ When you open `https://ds-hospital.onrender.com`, you land on the **DS Hospital 
 The dashboard displays the patient's **personal profile card** at the top with their name, contact info, date of birth, email, and address. Below it are three main functional panels:
 
 1. **My Health Records** — Displays the patient's existing medical records (conditions, blood group, notes added by doctors).
-2. **My Appointments** — Lists all upcoming and past appointments with their status (Pending / Confirmed / Cancelled).
-3. **My Test Bookings** — Shows all lab tests booked, their status, and any uploaded reports.
-4. **My OT Requests** — Shows Operation Theatre requests and their current status.
+2. **My Appointments** — Lists all upcoming and past appointments with their status (Pending / Confirmed / Cancelled).Controled by the Receptionist.
+3. **My Test Bookings** — Shows all lab tests booked, their status, and any uploaded reports.Controled by the Pharmacist.
+4. **My OT Requests** — Shows Operation Theatre requests and their current status.Controled by the Receptionist.
 
 #### Buttons & their functions:
 
@@ -200,7 +200,7 @@ The dashboard displays the patient's **personal profile card** at the top with t
 
 The dashboard shows the doctor's **own profile card** (name, specialisation, contact) and two main panels:
 
-1. **My Patients** — A list of all patients assigned to this doctor, with their basic info cards.
+1. **My Patients** — A list of all patients assigned to this doctor, with their basic info cards. Visible only if the receptionist confirms.
 2. **My Credentials / Profile** — The doctor's qualifications, department, and contact info, which they can update.
 
 #### Buttons & their functions:
