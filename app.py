@@ -138,11 +138,16 @@ OT_LIST = [
     {"name": "Neurosurgery OT", "cost": 180000},
     {"name": "Orthopaedic OT", "cost": 80000},
     {"name": "Laparoscopic OT", "cost": 45000},
-    {"name": "Eye Surgery OT", "cost": 35000},
     {"name": "ENT Surgery OT", "cost": 30000},
     {"name": "Gynaecology OT", "cost": 40000},
     {"name": "Oncology Surgery OT", "cost": 120000},
     {"name": "Paediatric OT", "cost": 55000},
+    {"name": "Cataract Surgery (Per Eye)", "cost": ₹25,000},
+    {"name": "Appendectomy (Appendix Removal)", "cost": 35,000},
+    {"name": "Piles OT", "cost": 55000},
+    {"name": "Knee Replacement", "cost": 1,55,000},
+    {"name": "Kidney Stone Removal", "cost": 55000},
+    {"name": "Spine Decompression", "cost": 90000},
 ]
 
 DEFAULT_DOCTORS = [
